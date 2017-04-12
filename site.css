@@ -1,0 +1,13 @@
+blockquote {
+  margin: 20px 0 20px;
+}
+main {
+  margin-top: 50px;
+}
+.jumbotron {
+  background-color: #e11a21;
+  color: white;
+}
+.jumbotron a {
+  color: white;
+}
